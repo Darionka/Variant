@@ -1,0 +1,10 @@
+C:\Users\Game-PC\Desktop\Superbest-superbest-random-f067e1dc014c\Release\Demo.exe.config
+C:\Users\Game-PC\Desktop\Superbest-superbest-random-f067e1dc014c\Release\Demo.exe
+C:\Users\Game-PC\Desktop\Superbest-superbest-random-f067e1dc014c\Release\Demo.pdb
+C:\Users\Game-PC\Desktop\Superbest-superbest-random-f067e1dc014c\Demo\obj\Release\Demo.csproj.AssemblyReference.cache
+C:\Users\Game-PC\Desktop\Superbest-superbest-random-f067e1dc014c\Demo\obj\Release\Demo.DemoForm.resources
+C:\Users\Game-PC\Desktop\Superbest-superbest-random-f067e1dc014c\Demo\obj\Release\Demo.Properties.Resources.resources
+C:\Users\Game-PC\Desktop\Superbest-superbest-random-f067e1dc014c\Demo\obj\Release\Demo.csproj.GenerateResource.cache
+C:\Users\Game-PC\Desktop\Superbest-superbest-random-f067e1dc014c\Demo\obj\Release\Demo.csproj.CoreCompileInputs.cache
+C:\Users\Game-PC\Desktop\Superbest-superbest-random-f067e1dc014c\Demo\obj\Release\Demo.exe
+C:\Users\Game-PC\Desktop\Superbest-superbest-random-f067e1dc014c\Demo\obj\Release\Demo.pdb
